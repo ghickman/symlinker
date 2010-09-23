@@ -1,0 +1,1 @@
+A simple script to loop a _start_ directory and create symlinks from each directory found to a _finish_ directory.
